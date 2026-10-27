@@ -149,3 +149,6 @@ Usa el botón de la sección de inicio rápido.
 ---
 
 *Call of Duty Warzone · Actualizado 2026-10-27 · Compartido bajo licencia MIT*
+
+
+*Last updated: 2026-10-27*
